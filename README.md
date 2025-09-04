@@ -9,7 +9,7 @@ A modular full-stack web application designed to connect service providers and c
 <h2 align="center">Project Overview</h2>
 
 <p align="center">
-This project was developed as part of a training module at the **Developer Academy**. 
+This project was developed as part of a training module at the <a href="https://developerakademie.com/">Developer Academie</a>. 
 The **entire front end** was provided by the academy, while I developed and implemented the back end.
 </p>
 <p align="center">
