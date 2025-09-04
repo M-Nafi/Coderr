@@ -9,8 +9,8 @@ A modular full-stack web application designed to connect service providers and c
 <h2 align="center">Project Overview</h2>
 
 <p align="center">
-This project was developed as part of a training module at the **Developer Akademie**.  
-The **entire frontend** was provided by the academy, while the **backend was independently designed and implemented by me**.
+This project was developed as part of a training module at the **Developer Academy**. 
+The **entire front end** was provided by the academy, while I developed and implemented the back end.
 </p>
 <p align="center">
 The application consists of two separate repositories:
@@ -68,3 +68,5 @@ source venv/bin/activate
 pip install -r requirements.txt
 python manage.py migrate
 python manage.py runserver
+
+Make sure to configure your `.env` file with database credentials and secret keys.
