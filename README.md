@@ -11,7 +11,8 @@ A modular full-stack web application designed to connect service providers and c
 <p align="center">
 This project was developed as part of a training module at the **Developer Akademie**.  
 The **entire frontend** was provided by the academy, while the **backend was independently designed and implemented by me**.
-
+</p>
+<p align="center">
 The application consists of two separate repositories:
 </p>
 
